@@ -3,7 +3,12 @@
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">A passionate Full Stack developer ,Ios developer , MERN stack developer from India</h3>
 # 💫 About Me:
-🔭 I’m currently working on **FocusTrail**<br>🌱 I’m currently learning** MLcore** in **Swift** also **UIkit** , **DSA+coreC++**<br>👯 I’m looking to collaborate on **Hospital Management System**<br>🤝 I’m looking for help with **FocusTrail**<br>💬 Ask me about **react , vite , Swift , Node , Mongodb , Tailwind , C++ , coreC++ , WebD , Js , PHP(Hack) , Swift(playground) , Xampp , Wordpress , python , Flask , Django , typescript , jsx , Oracle**<br>⚡ Fun fact I'm **funny** ,Approachable by Nature, Robust by Design
+🔭 **Currently Building:** **FocusTrail** — A Productivity-Focused Project<br>
+🌱 **Learning & Growing In:** **Core ML (Swift)**, **UIKit**, and **DSA with Core C++**<br>
+👯 **Open to Collaborate On:** **Hospital Management System**<br>
+🤝 **Seeking Support For:** **FocusTrail Development & Scaling**<br>
+💬 **Core Expertise:** **React, Vite, Swift, Node.js, MongoDB, Tailwind CSS, C++, Core C++, Web Development, JavaScript, PHP, Swift Playgrounds, XAMPP, WordPress, Python, Flask, Django, TypeScript, JSX, Oracle**<br>
+⚡ **Fun Fact:** **Funny, Approachable by Nature, Robust by Design**
 
 
 ## 🌐 Socials:
