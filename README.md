@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">A passionate Full Stack developer ,Ios developer , MERN stack developer from India</h3>
-# 💫 About Me:
+<b># 💫 About Me: <b><br>
 🔭 <b>Currently Building:</b> <b>FocusTrail</b> — A Productivity-Focused Project<br>
 🌱 <b>Learning & Growing In:</b> <b>Core ML (Swift)</b>, <b>UIKit</b>, and <b>DSA with Core C++</b><br>
 👯 <b>Open to Collaborate On:</b> <b>Hospital Management System</b><br>
