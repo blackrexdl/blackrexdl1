@@ -118,7 +118,7 @@ Overall, my education and hands-on projects have helped me develop problem-solvi
 
 <div align="center">
 
-https://stats.hyo.dev/api/github-stats-advanced?login=blackrexdl
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=blackrexdl)
 
 </div>
 ### Diploma in Computer Science
