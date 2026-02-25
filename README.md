@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/blackrexdl/blackrexdl/refs/heads/main/1%202.png" alt="Profile Banner" width="100%" />
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&theme=vision-friendly-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <div align="center">
 
