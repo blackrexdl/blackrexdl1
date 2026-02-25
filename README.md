@@ -268,8 +268,8 @@ _• I’m naturally funny and like to lighten up the mood.
 
 <div align="center">
 
-[## Star History
 
-[![Star History](https://api.star-history.com/svg?repos=next-restaurant&theme=dark)](https://github.com/blackrexdl/next-restaurant)](https://api.star-history.com/svg?repos=next-restaurant&theme=dark#gh-dark-mode-only)
+
+[![Star History](https://api.star-history.com/svg?repos=next-restaurant&theme=dark)](https://github.com/blackrexdl/next-restaurant)
 
 </div>
