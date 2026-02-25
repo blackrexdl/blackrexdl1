@@ -7,7 +7,11 @@
 ### A passionate developer from Barnala
 
 </div>
-![Readme Jokes](https://readme-jokes.vercel.app/api?hideBorder=true)
+<div align="center">
+
+![Readme Jokes](https://readme-jokes.vercel.app/api?theme=rando)
+
+</div>
 
 ## 🚀 About Me
 
@@ -20,8 +24,6 @@ Instead of waiting for experience, I’ve been creating it — building live sys
 
 Currently focused on growing as an iOS Developer, I’m looking for opportunities where I can contribute to real products, solve meaningful problems, and keep compounding my skills through hands-on development.
 This will be displayed prominently at the top of your profile.
-
-![Readme Jokes](https://readme-jokes.vercel.app/api?hideBorder=true)
 
 ## 💼 Current Work
 
