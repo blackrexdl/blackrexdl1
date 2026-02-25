@@ -3,9 +3,13 @@
 ### A passionate developer from Barnala
 
 </div>
+
 <div align="center">
 
-![Readme Jokes](https://readme-jokes.vercel.app/api?theme=rando)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&theme=tokyo-night)
+
+</div>
+
 
 </div>
 
@@ -73,15 +77,16 @@ This project not only strengthened my React.js skills but also gave me practical
 
 ### Personal Portfolio
 
+<div align="center">
+
+![Readme Jokes](https://readme-jokes.vercel.app/api?theme=rando)
+
+
 <img src="https://github.com/blackrexdl/Project-img-s/blob/main/porfolio%20react/Abt.png" alt="Personal Portfolio" width="500"/>
 
 **Technologies Used:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS / Vanilla CSS, CSS Animations, Git / GitHub, VS Code, MacOS / Windows (development environment), MongoDB
 
-<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&theme=tokyo-night)
-
-</div>
 
 ## 🎓 Education
 
