@@ -27,7 +27,7 @@ This will be displayed prominently at the top of your profile.
 
 <div align="left">
 
-- 🔭 I'm currently working on ** FocusTrail**
+- 🔭 I'm currently working on <b>FocusTrail<b>>
 - 👯 I'm looking to collaborate on [**Hospital-Management-System**](https://github.com/blackrexdl/Healthcare)
 - 🤝 I'm looking for help with **FocusTrail**
 
