@@ -11,6 +11,8 @@
 
 </div>
 
+![Readme Jokes](https://readme-jokes.vercel.app/api?theme=halloween)
+
 ## 🚀 About Me
 
 I turn late-night ideas into → real working appsiOS Developer | Swift | @ CGC Landran | Full Stack Developer | Python Developer | Mern Stack | C++ | DSA | Student-built🔧 apps helping startups ship faster
