@@ -116,11 +116,7 @@ In terms of achievements, I have:
 
 Overall, my education and hands-on projects have helped me develop problem-solving abilities, logical thinking, and adaptability, which I believe are essential for a career in iOS and software development.
 
-<div align="center">
 
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=blackrexdl)
-
-</div>
 ### Diploma in Computer Science
 
 <b>GuruNanak Dev Polytechnic College , Ludhiana<b>
@@ -241,6 +237,12 @@ _• I’m naturally funny and like to lighten up the mood.
 ### 💻 Other
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<div align="center">
+
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=blackrexdl)
+
+</div>
 
 ## 📊 GitHub Stats & Activity
 
