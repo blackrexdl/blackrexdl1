@@ -118,9 +118,9 @@ Overall, my education and hands-on projects have helped me develop problem-solvi
 
 <div align="center">
 
-![Readme Jokes](https://readme-jokes.vercel.app/api?theme=rando)
+https://stats.hyo.dev/api/github-stats-advanced?login=blackrexdl
 
-
+</div>
 ### Diploma in Computer Science
 
 <b>GuruNanak Dev Polytechnic College , Ludhiana<b>
@@ -261,6 +261,7 @@ _• I’m naturally funny and like to lighten up the mood.
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 **Thank you for visiting my profile! 😊**
+**This Ghost Doing Hard !! Star my repo and enjoy 😊**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=blackrexdl&color=brightgreen&style=flat-square&label=Profile+Views)
 
