@@ -1,16 +1,13 @@
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&theme=vision-friendly-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
+<div align="center">
 
 # Hi 👋, I'm Shubu
 
 ### A passionate developer from Barnala
 
-
 </div>
-<div align="center">
-
-![Readme Jokes](https://readme-jokes.vercel.app/api?theme=github-combat)
-
-</div>
+![Readme Jokes](https://readme-jokes.vercel.app/api?hideBorder=true)
 
 ## 🚀 About Me
 
@@ -24,10 +21,8 @@ Instead of waiting for experience, I’ve been creating it — building live sys
 Currently focused on growing as an iOS Developer, I’m looking for opportunities where I can contribute to real products, solve meaningful problems, and keep compounding my skills through hands-on development.
 This will be displayed prominently at the top of your profile.
 
+![Readme Jokes](https://readme-jokes.vercel.app/api?hideBorder=true)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&theme=vision-friendly-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-<div align="center">
 ## 💼 Current Work
 
 <div align="left">
@@ -43,31 +38,31 @@ This will be displayed prominently at the top of your profile.
 <div align="left">
 
 - 🌱 I'm currently learning **🌱 I'm currently learning
-	•	Advanced Swift & iOS development
-	•	Next.js / React.js (interactive web apps)
-	•	MERN Stack (MongoDB, Node.js, Express, backend integration)
-	•	C++ & DSA (data structures and algorithms, problem-solving)
-	•	UI/UX & Animations (glassmorphism, CSS animations, responsive design)
-	•	Version control & collaboration (Git, GitHub workflows)
-	•	Cybersecurity basics (ethical hacking, digital forensics)**
+  • Advanced Swift & iOS development
+  • Next.js / React.js (interactive web apps)
+  • MERN Stack (MongoDB, Node.js, Express, backend integration)
+  • C++ & DSA (data structures and algorithms, problem-solving)
+  • UI/UX & Animations (glassmorphism, CSS animations, responsive design)
+  • Version control & collaboration (Git, GitHub workflows)
+  • Cybersecurity basics (ethical hacking, digital forensics)**
 
 </div>
 
 ## 🚀 Projects
 
-| Project | Description | Links |
-|---|---|---|
-| Personal Portfolio | I developed a Personal Portfolio website using React.js, JavaScript, HTML5, and pure CSS, focusing on clean UI design, interactivity, and responsiveness. The project showcases my skills, projects, and contact information in a professional layout. | https://github.com/blackrexdl/Personal-Portfolio
+| Project            | Description                                                                                                                                                                                                                                            | Links                                            |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
+| Personal Portfolio | I developed a Personal Portfolio website using React.js, JavaScript, HTML5, and pure CSS, focusing on clean UI design, interactivity, and responsiveness. The project showcases my skills, projects, and contact information in a professional layout. | https://github.com/blackrexdl/Personal-Portfolio |
 
 Key features and technologies I implemented:
-	•	Glassmorphism UI with a glass-like navigation bar and smooth toggle animations
-	•	Custom animated cursor with trail and hover effects for interactivity
-	•	Responsive design optimized for mobile, tablet, and large screens
-	•	Portfolio grid with animated image cards
-	•	Resume section with timelines and skill bars
-	•	Interactive contact section that opens email and phone apps directly
-	•	Modular React component architecture for scalability and maintainability
-	•	Performance optimization and accessibility considerations
+• Glassmorphism UI with a glass-like navigation bar and smooth toggle animations
+• Custom animated cursor with trail and hover effects for interactivity
+• Responsive design optimized for mobile, tablet, and large screens
+• Portfolio grid with animated image cards
+• Resume section with timelines and skill bars
+• Interactive contact section that opens email and phone apps directly
+• Modular React component architecture for scalability and maintainability
+• Performance optimization and accessibility considerations
 
 Animations, hover effects, and cursor interactions make the portfolio dynamic and user-friendly, demonstrating my ability to combine design and frontend logic effectively.
 
@@ -87,27 +82,29 @@ This project not only strengthened my React.js skills but also gave me practical
 
 ## 🎓 Education
 
-| Institution | Degree | Duration |
-|---|---|---|
-| Chandigarh Group Of Colleges | Bachelor Of Technology  | 2024 - 2027 |
-| GuruNanak Dev Polytechnic College , Ludhiana  | Diploma | 2022 - 2024 |
+| Institution                                  | Degree                 | Duration    |
+| -------------------------------------------- | ---------------------- | ----------- |
+| Chandigarh Group Of Colleges                 | Bachelor Of Technology | 2024 - 2027 |
+| GuruNanak Dev Polytechnic College , Ludhiana | Diploma                | 2022 - 2024 |
 
-### Bachelor Of Technology  in Computer Science 
-*Chandigarh Group Of Colleges*
+### Bachelor Of Technology in Computer Science
 
-I  am currently pursuing a Bachelor of Technology in Computer Science Engineering from Chandigarh Group of Colleges, Landran, and I am in my third semester  Throughout my academic journey, I have focused on building a strong foundation in programming, software development, and iOS development.
+_Chandigarh Group Of Colleges_
+
+I am currently pursuing a Bachelor of Technology in Computer Science Engineering from Chandigarh Group of Colleges, Landran, and I am in my third semester Throughout my academic journey, I have focused on building a strong foundation in programming, software development, and iOS development.
 
 Before that, I completed my Intermediate from Government Senior Secondary School, Barnala with 90.2%, and Matriculation from Jai Happy Model High School, Barnala, scoring 100%.
 
 In terms of achievements, I have:
-	•	Participated in Smart India Hackathon 2024, gaining hands-on experience in problem-solving and project development.
-	•	Completed multiple certifications including Web Development (Frontend), MERN Stack, Cyber Security, and Introduction to Ethical Hacking, which helped me strengthen my technical knowledge and practical skills.
-	•	Developed real-world projects like a Hospital Management System and an iOS application (FocusTrail), which enhanced my understanding of UI design, app lifecycle, and backend integration.
-	•	Contributed as a Web Developer in the Tech Amigo Club and worked as a Video Editor in the DSW Club, demonstrating my versatility and teamwork skills.
+• Participated in Smart India Hackathon 2024, gaining hands-on experience in problem-solving and project development.
+• Completed multiple certifications including Web Development (Frontend), MERN Stack, Cyber Security, and Introduction to Ethical Hacking, which helped me strengthen my technical knowledge and practical skills.
+• Developed real-world projects like a Hospital Management System and an iOS application (FocusTrail), which enhanced my understanding of UI design, app lifecycle, and backend integration.
+• Contributed as a Web Developer in the Tech Amigo Club and worked as a Video Editor in the DSW Club, demonstrating my versatility and teamwork skills.
 
 Overall, my education and hands-on projects have helped me develop problem-solving abilities, logical thinking, and adaptability, which I believe are essential for a career in iOS and software development.
 
-### Diploma in Computer Science 
+### Diploma in Computer Science
+
 <b>GuruNanak Dev Polytechnic College , Ludhiana<b>
 
 During my diploma / industrial training, I focused on Web Development (Frontend) and related technologies. Over the six-week program, I gained hands-on experience in HTML, CSS, JavaScript, and React.js, and worked on practical exercises that simulated real-world web development scenarios.
@@ -120,18 +117,17 @@ Overall, the diploma training helped me build practical skills, improve problem-
 
 ## 💼 Internships
 
-| Company | Position | Duration |
-|---|---|---|
-| ThinkNEXT | Reusable Components,  Backend Integration  | 13/06/2025 - 25/07/ 2025 |
+| Company   | Position                                 | Duration                 |
+| --------- | ---------------------------------------- | ------------------------ |
+| ThinkNEXT | Reusable Components, Backend Integration | 13/06/2025 - 25/07/ 2025 |
 
-### Reusable Components,  Backend Integration  at ThinkNEXT
+### Reusable Components, Backend Integration at ThinkNEXT
 
 I completed a 6-week internship at ThinkNEXT Pvt. Ltd., where my primary role was backend integration and developing reusable components/hooks. During this period, I worked with MongoDB for database management and learned how to connect backend APIs efficiently with the frontend.
 
 I focused on creating reusable hooks and modular code, which helped improve project scalability and maintainability. This experience also gave me practical exposure to full-stack development concepts, problem-solving in real-world scenarios, and collaborating on structured projects.
 
 Overall, this internship strengthened my technical skills, understanding of backend systems, and coding discipline, preparing me well for professional development roles.
-
 
 ## 📞 Contact & Links
 
@@ -147,13 +143,13 @@ Overall, this internship strengthened my technical skills, understanding of back
 
 <div align="center">
 
-*•	I’m naturally funny and like to lighten up the mood.
-	•	I enjoy learning new tech while listening to music.
-	•	I love building apps and websites just for practice, even small side projects.
-	•	I’m a coffee  fan while coding.
-	•	I like experimenting with animations and UI effects just for fun.
-	•	I enjoy solving tricky coding challenges, sometimes competitively.
-	•	I’m a bit of a multilingual techie – English, Hindi, Punjabi.*
+_• I’m naturally funny and like to lighten up the mood.
+• I enjoy learning new tech while listening to music.
+• I love building apps and websites just for practice, even small side projects.
+• I’m a coffee fan while coding.
+• I like experimenting with animations and UI effects just for fun.
+• I enjoy solving tricky coding challenges, sometimes competitively.
+• I’m a bit of a multilingual techie – English, Hindi, Punjabi._
 
 </div>
 
@@ -169,7 +165,7 @@ Overall, this internship strengthened my technical skills, understanding of back
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/wssup.shubu) 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/wssup.shubu)
 
 </div>
 
@@ -229,12 +225,7 @@ Overall, this internship strengthened my technical skills, understanding of back
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=blackrexdl&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-
-
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackrexdl&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/caption_driller?style=social)](https://twitter.com/caption_driller)
 
