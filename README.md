@@ -97,7 +97,7 @@ In terms of achievements, I have:
 Overall, my education and hands-on projects have helped me develop problem-solving abilities, logical thinking, and adaptability, which I believe are essential for a career in iOS and software development.
 
 ### Diploma in Computer Science 
-*GuruNanak Dev Polytechnic College , Ludhiana *
+<b>GuruNanak Dev Polytechnic College , Ludhiana<b>
 
 During my diploma / industrial training, I focused on Web Development (Frontend) and related technologies. Over the six-week program, I gained hands-on experience in HTML, CSS, JavaScript, and React.js, and worked on practical exercises that simulated real-world web development scenarios.
 
