@@ -74,6 +74,8 @@ This project not only strengthened my React.js skills but also gave me practical
 
 **Technologies Used:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS / Vanilla CSS, CSS Animations, Git / GitHub, VS Code, MacOS / Windows (development environment), MongoDB
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZxBing0066&theme=github-compact)
+
 ## 🎓 Education
 
 | Institution | Degree | Duration |
