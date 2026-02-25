@@ -252,6 +252,6 @@ Overall, this internship strengthened my technical skills, understanding of back
 
 [## Star History
 
-[![Star History](https://api.star-history.com/svg?repos=next-restaurant&theme=dark)](https://github.com/next-restaurant/)](https://api.star-history.com/svg?repos=next-restaurant&theme=dark#gh-dark-mode-only)
+[![Star History](https://api.star-history.com/svg?repos=next-restaurant&theme=dark)](https://github.com/blackrexdl/next-restaurant)](https://api.star-history.com/svg?repos=next-restaurant&theme=dark#gh-dark-mode-only)
 
 </div>
