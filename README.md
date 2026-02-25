@@ -221,7 +221,6 @@ Overall, this internship strengthened my technical skills, understanding of back
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackrexdl&layout=compact&theme=dark&langs_count=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackrexdl&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
