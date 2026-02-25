@@ -52,7 +52,7 @@ This will be displayed prominently at the top of your profile.
 
 | Project | Description | Links |
 |---|---|---|
-| Personal Portfolio | I developed a Personal Portfolio website using React.js, JavaScript, HTML5, and pure CSS, focusing on clean UI design, interactivity, and responsiveness. The project showcases my skills, projects, and contact information in a professional layout.
+| Personal Portfolio | I developed a Personal Portfolio website using React.js, JavaScript, HTML5, and pure CSS, focusing on clean UI design, interactivity, and responsiveness. The project showcases my skills, projects, and contact information in a professional layout. | https://github.com/blackrexdl/Personal-Portfolio
 
 Key features and technologies I implemented:
 	•	Glassmorphism UI with a glass-like navigation bar and smooth toggle animations
