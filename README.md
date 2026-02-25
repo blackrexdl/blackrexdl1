@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&theme=tokyo-night&border=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&theme=tokyo-night&hide_border=true)
 
 </div>
 
