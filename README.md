@@ -10,8 +10,11 @@
 
 
 </div>
+<div align="center">
 
 ![Readme Jokes](https://readme-jokes.vercel.app/api?theme=halloween)
+
+</div>
 
 ## 🚀 About Me
 
