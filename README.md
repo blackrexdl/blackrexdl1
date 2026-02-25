@@ -2,7 +2,7 @@
 <div align="center" style="width: fit-content; margin: auto;">
 
 
-![GitHub Calendar](https://metrics.lecoq.io/blackrexdl?template=classic&base=&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta&config.display=large)
+
 # Hi 👋, I'm Shubu
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
