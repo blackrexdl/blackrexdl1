@@ -219,7 +219,7 @@ Overall, this internship strengthened my technical skills, understanding of back
 ![Visitor Count](https://komarev.com/ghpvc/?username=blackrexdl&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackrexdl&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackrexdl&layout=compact&theme=dark&langs_count=10)
 
