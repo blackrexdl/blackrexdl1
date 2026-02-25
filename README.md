@@ -8,7 +8,6 @@
 
 ### A passionate developer from Barnala
 
-<img src="https://github.com/blackrexdl.png" alt="Shubu" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
