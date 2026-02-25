@@ -1,4 +1,10 @@
+<div align="center" style="width: fit-content; margin: auto;">
+
 # Hi 👋, I'm Shubu
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&fontFamily=&theme=dark&hide_border=true)](https://git.io/awesome-stats-card)
+
+</div>
 
 ### A passionate developer from Barnala
 
