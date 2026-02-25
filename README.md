@@ -247,3 +247,11 @@ Overall, this internship strengthened my technical skills, understanding of back
 ![Profile Views](https://komarev.com/ghpvc/?username=blackrexdl&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
+
+<div align="center">
+
+[## Star History
+
+[![Star History](https://api.star-history.com/svg?repos=next-restaurant&theme=dark)](https://github.com/next-restaurant/)](https://api.star-history.com/svg?repos=next-restaurant&theme=dark#gh-dark-mode-only)
+
+</div>
