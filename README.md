@@ -2,8 +2,9 @@
 
 # Hi 👋, I'm Shubu
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <br><br>
+
 
 </div>
 
@@ -16,6 +17,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&theme=tokyo-night)
 
 </div>
+
 
 </div>
 
@@ -36,6 +38,7 @@ This will be displayed prominently at the top of your profile.
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
+
 
 ## 💼 Current Work
 
@@ -88,6 +91,8 @@ This project not only strengthened my React.js skills but also gave me practical
 
 **Technologies Used:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS / Vanilla CSS, CSS Animations, Git / GitHub, VS Code, MacOS / Windows (development environment), MongoDB
 
+
+
 ## 🎓 Education
 
 | Institution                                  | Degree                 | Duration    |
@@ -114,6 +119,7 @@ Overall, my education and hands-on projects have helped me develop problem-solvi
 <div align="center">
 
 ![Readme Jokes](https://readme-jokes.vercel.app/api?theme=rando)
+
 
 ### Diploma in Computer Science
 
