@@ -1,46 +1,246 @@
-![logo](https://github.com/blackrexdl/blackrexdl/blob/main/1%202.png?raw=true)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/blackrexdl/blackrexdl/refs/heads/main/1%202.png" alt="Profile Banner" width="100%" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-<h3 align="center">A passionate Full Stack developer ,Ios developer , MERN stack developer from India</h3>
-<b># 💫 About Me: <b><br>
-🔭 <b>Currently Building:</b> FocusTrail — A Productivity-Focused Project<br>
-🌱 <b>Learning & Growing In:</b> <b>Core ML (Swift)</b>, <b>UIKit</b>, and <b>DSA with Core C++</b><br>
-👯 <b>Open to Collaborate On:</b> <b>Hospital Management System</b><br>
-🤝 <b>Seeking Support For:</b> <b>FocusTrail Development & Scaling</b><br>
-💬 <b>Core Expertise:</b> <b>React, Vite, Swift, Node.js, MongoDB, Tailwind CSS, C++, Core C++, Web Development, JavaScript, PHP, Swift Playgrounds, XAMPP, WordPress, Python, Flask, Django, TypeScript, JSX, Oracle</b><br>
-⚡ <b>Fun Fact:</b> <b>Funny, Approachable by Nature, Robust by Design</b>
+<div align="center">
+
+# Hi 👋, I'm Shubu
+
+### A passionate developer from Barnala
+
+<img src="https://github.com/blackrexdl.png" alt="Shubu" width="150" height="150" style="border-radius: 50%;" />
+
+</div>
+
+## 🚀 About Me
+
+I turn late-night ideas into → real working appsiOS Developer | Swift | @ CGC Landran | Full Stack Developer | Python Developer | Mern Stack | C++ | DSA | Student-built🔧 apps helping startups ship faster
+I’ve built and shipped 29+ software projects, with 12 deployed live — focusing on real execution over theoretical learning.
+
+My core focus is iOS development using Swift, backed by strong full-stack experience across the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building products end-to-end — from backend architecture to clean, responsive interfaces.
+
+Instead of waiting for experience, I’ve been creating it — building live systems, experimenting across stacks, and sharing my work publicly through GitHub and deployed projects.
+
+Currently focused on growing as an iOS Developer, I’m looking for opportunities where I can contribute to real products, solve meaningful problems, and keep compounding my skills through hands-on development.
+This will be displayed prominently at the top of your profile.
+
+## 💼 Current Work
+
+<div align="left">
+
+- 🔭 I'm currently working on ** FocusTrail**
+- 👯 I'm looking to collaborate on [**Hospital-Management-System**](https://github.com/blackrexdl/Healthcare)
+- 🤝 I'm looking for help with **FocusTrail**
+
+</div>
+
+## 📚 Learning & Knowledge
+
+<div align="left">
+
+- 🌱 I'm currently learning **🌱 I'm currently learning
+	•	Advanced Swift & iOS development
+	•	Next.js / React.js (interactive web apps)
+	•	MERN Stack (MongoDB, Node.js, Express, backend integration)
+	•	C++ & DSA (data structures and algorithms, problem-solving)
+	•	UI/UX & Animations (glassmorphism, CSS animations, responsive design)
+	•	Version control & collaboration (Git, GitHub workflows)
+	•	Cybersecurity basics (ethical hacking, digital forensics)**
+
+</div>
+
+## 🚀 Projects
+
+| Project | Description | Links |
+|---|---|---|
+| Personal Portfolio | I developed a Personal Portfolio website using React.js, JavaScript, HTML5, and pure CSS, focusing on clean UI design, interactivity, and responsiveness. The project showcases my skills, projects, and contact information in a professional layout.
+
+Key features and technologies I implemented:
+	•	Glassmorphism UI with a glass-like navigation bar and smooth toggle animations
+	•	Custom animated cursor with trail and hover effects for interactivity
+	•	Responsive design optimized for mobile, tablet, and large screens
+	•	Portfolio grid with animated image cards
+	•	Resume section with timelines and skill bars
+	•	Interactive contact section that opens email and phone apps directly
+	•	Modular React component architecture for scalability and maintainability
+	•	Performance optimization and accessibility considerations
+
+Animations, hover effects, and cursor interactions make the portfolio dynamic and user-friendly, demonstrating my ability to combine design and frontend logic effectively.
+
+This project not only strengthened my React.js skills but also gave me practical experience in UI/UX design, CSS animations, and responsive web development, which are crucial for building professional, real-world applications. | [Live](https://personal-portfolio-vert-zeta-58.vercel.app) / [GitHub](https://github.com/blackrexdl/Personal-Portfolio?tab=readme-ov-file) |
+
+### Personal Portfolio
+
+<img src="https://github.com/blackrexdl/Project-img-s/blob/main/porfolio%20react/Abt.png" alt="Personal Portfolio" width="500"/>
+
+**Technologies Used:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS / Vanilla CSS, CSS Animations, Git / GitHub, VS Code, MacOS / Windows (development environment), MongoDB
+
+## 🎓 Education
+
+| Institution | Degree | Duration |
+|---|---|---|
+| Chandigarh Group Of Colleges | Bachelor Of Technology  | 2024 - 2027 |
+| GuruNanak Dev Polytechnic College , Ludhiana  | Diploma | 2022 - 2024 |
+
+### Bachelor Of Technology  in Computer Science 
+*Chandigarh Group Of Colleges*
+
+I  am currently pursuing a Bachelor of Technology in Computer Science Engineering from Chandigarh Group of Colleges, Landran, and I am in my third semester  Throughout my academic journey, I have focused on building a strong foundation in programming, software development, and iOS development.
+
+Before that, I completed my Intermediate from Government Senior Secondary School, Barnala with 90.2%, and Matriculation from Jai Happy Model High School, Barnala, scoring 100%.
+
+In terms of achievements, I have:
+	•	Participated in Smart India Hackathon 2024, gaining hands-on experience in problem-solving and project development.
+	•	Completed multiple certifications including Web Development (Frontend), MERN Stack, Cyber Security, and Introduction to Ethical Hacking, which helped me strengthen my technical knowledge and practical skills.
+	•	Developed real-world projects like a Hospital Management System and an iOS application (FocusTrail), which enhanced my understanding of UI design, app lifecycle, and backend integration.
+	•	Contributed as a Web Developer in the Tech Amigo Club and worked as a Video Editor in the DSW Club, demonstrating my versatility and teamwork skills.
+
+Overall, my education and hands-on projects have helped me develop problem-solving abilities, logical thinking, and adaptability, which I believe are essential for a career in iOS and software development.
+
+### Diploma in Computer Science 
+*GuruNanak Dev Polytechnic College , Ludhiana *
+
+During my diploma / industrial training, I focused on Web Development (Frontend) and related technologies. Over the six-week program, I gained hands-on experience in HTML, CSS, JavaScript, and React.js, and worked on practical exercises that simulated real-world web development scenarios.
+
+As part of the training, I successfully completed projects that strengthened my understanding of frontend design, responsive layouts, and user interface development. I also earned a certificate of completion for my performance, which validated my technical skills and dedication.
+
+In addition, I explored MERN Stack basics, which introduced me to backend concepts and database integration with MongoDB, giving me a broader perspective on full-stack development.
+
+Overall, the diploma training helped me build practical skills, improve problem-solving, and gain confidence in applying my programming knowledge to real projects. It also reinforced my interest in continuing to develop as a software and iOS developer.
+
+## 💼 Internships
+
+| Company | Position | Duration |
+|---|---|---|
+| ThinkNEXT | Reusable Components,  Backend Integration  | 13/06/2025 - 25/07/ 2025 |
+
+### Reusable Components,  Backend Integration  at ThinkNEXT
+
+I completed a 6-week internship at ThinkNEXT Pvt. Ltd., where my primary role was backend integration and developing reusable components/hooks. During this period, I worked with MongoDB for database management and learned how to connect backend APIs efficiently with the frontend.
+
+I focused on creating reusable hooks and modular code, which helped improve project scalability and maintainability. This experience also gave me practical exposure to full-stack development concepts, problem-solving in real-world scenarios, and collaborating on structured projects.
+
+Overall, this internship strengthened my technical skills, understanding of backend systems, and coding discipline, preparing me well for professional development roles.
 
 
-## 🌐 Connect With Me :⤵︎
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wssup.shubu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-sharma-948752367)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/caption_driller)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@generalshubu)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/wassupshubu)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuvam2065@gmail.com)
+## 📞 Contact & Links
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=blackrexdl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=blackrexdl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackrexdl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="left">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=blackrexdl&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+- 📫 How to reach me **shivam205@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/blackrexdl](https://github.com/blackrexdl)
+- 📄 Know about my experiences [https://github.com/blackrexdl/SHUBU-DOCS/blob/main/Cer%5Ctificate/ATS.pdf](https://github.com/blackrexdl/SHUBU-DOCS/blob/main/Cer%5Ctificate/ATS.pdf)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=blackrexdl&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## ⚡ Fun Fact
+
+<div align="center">
+
+*•	I’m naturally funny and like to lighten up the mood.
+	•	I enjoy learning new tech while listening to music.
+	•	I love building apps and websites just for practice, even small side projects.
+	•	I’m a coffee  fan while coding.
+	•	I like experimenting with animations and UI effects just for fun.
+	•	I enjoy solving tricky coding challenges, sometimes competitively.
+	•	I’m a bit of a multilingual techie – English, Hindi, Punjabi.*
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackrexdl)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/caption_driller)&nbsp;&nbsp;&nbsp;[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wassupshubu)&nbsp;&nbsp;&nbsp;[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/Shubu78)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/shubux78)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Shubham Sharma)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wssup.shubu)&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/https://studio.youtube.com/channel/UCtd4kK7LQINL0QjwP2M7agw)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shubhamsharma_7)&nbsp;&nbsp;&nbsp;[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/add/dontsnapme_biba)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7889000521)
+
+</div>
+
+## ☕ Support Me
+
+<div align="center">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/wssup.shubu) 
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;&nbsp;&nbsp;![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;&nbsp;![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;&nbsp;&nbsp;![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+### 💻 Frontend Development
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuejs&logoColor=white)&nbsp;&nbsp;&nbsp;![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 💻 Mobile App Development
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;&nbsp;&nbsp;![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;&nbsp;&nbsp;![NativeScript](https://img.shields.io/badge/NativeScript-36556F?style=for-the-badge&logo=nativescript&logoColor=white)&nbsp;&nbsp;&nbsp;![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;&nbsp;&nbsp;![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;&nbsp;&nbsp;![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 💻 Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;&nbsp;&nbsp;![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 💻 AI/ML
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 💻 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;&nbsp;&nbsp;![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 💻 DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 💻 Backend as a Service (BaaS)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;&nbsp;&nbsp;![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### 💻 Framework
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;&nbsp;&nbsp;![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 💻 Software
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)&nbsp;&nbsp;&nbsp;![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)&nbsp;&nbsp;&nbsp;![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;&nbsp;&nbsp;![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white)&nbsp;&nbsp;&nbsp;![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;&nbsp;&nbsp;![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;&nbsp;&nbsp;![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### 💻 Static Site Generators
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 💻 Other
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=blackrexdl&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=blackrexdl&theme=dark&column=7&margin-w=15&margin-h=15)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackrexdl&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackrexdl&layout=compact&theme=dark&langs_count=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackrexdl&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/shubhamsharma_7?theme=dark)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/caption_driller?style=social)](https://twitter.com/caption_driller)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=blackrexdl&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/wssup.shubu) 
+<div align="center">
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=blackrexdl&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
