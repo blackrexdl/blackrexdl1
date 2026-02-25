@@ -258,6 +258,15 @@ _• I’m naturally funny and like to lighten up the mood.
 
 ---
 
+
+
+<div align="center">
+
+
+
+[![Star History](https://api.star-history.com/svg?repos=next-restaurant&theme=dark)](https://github.com/blackrexdl/next-restaurant)
+
+
 <div align="center">
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
@@ -266,13 +275,5 @@ _• I’m naturally funny and like to lighten up the mood.
 **This Ghost Doing Hard !! Star my repo and enjoy 😊**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=blackrexdl&color=brightgreen&style=flat-square&label=Profile+Views)
-
-</div>
-
-<div align="center">
-
-
-
-[![Star History](https://api.star-history.com/svg?repos=next-restaurant&theme=dark)](https://github.com/blackrexdl/next-restaurant)
 
 </div>
