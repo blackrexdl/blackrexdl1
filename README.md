@@ -224,7 +224,6 @@ Overall, this internship strengthened my technical skills, understanding of back
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackrexdl&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/shubhamsharma_7?theme=dark)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/caption_driller?style=social)](https://twitter.com/caption_driller)
 
