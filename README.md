@@ -20,9 +20,11 @@ Instead of waiting for experience, I’ve been creating it — building live sys
 
 Currently focused on growing as an iOS Developer, I’m looking for opportunities where I can contribute to real products, solve meaningful problems, and keep compounding my skills through hands-on development.
 This will be displayed prominently at the top of your profile.
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&theme=vision-friendly-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <div align="center">
+
 
 ## 💼 Current Work
 
