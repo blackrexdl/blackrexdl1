@@ -271,7 +271,7 @@ _• I’m naturally funny and like to lighten up the mood.
 
 <div align="center">
 
-![GitHub Stats](https://stats.pphat.top/graph?username=blackrexdl&year=2025)
+![GitHub Stats](http://stats.pphat.top/graph?username=blackrexdl&theme=aurora&size=default&show_title=true&show_total_contribution=true&show_background=true&animate=glow)
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 **Thank you for visiting my profile! 😊**
@@ -283,11 +283,12 @@ _• I’m naturally funny and like to lighten up the mood.
 
 
 
-![GitHub Stats](https://stats.pphat.top/badge/visitors?username=blackrexdl)
-![GitHub Stats](https://stats.pphat.top/badge/total-stars?username=blackrexdl&theme=ocean)
-![GitHub Stats](https://stats.pphat.top/badge/followers?username=blackrexdl&hideIcon=true&theme=neon)
-![GitHub Stats](https://stats.pphat.top/badge/repositories?username=blackrexdl&hideFrame=true)
-![GitHub Stats](https://stats.pphat.top/badge/total-commits?username=blackrexdl&hideFrame=true&hideIcon=true)
+![GitHub visitor](https://stats.pphat.top/badge/visitors?username=blackrexdl)
+![GitHub starts](https://stats.pphat.top/badge/total-stars?username=blackrexdl&theme=ocean)
+![GitHub foloowers](https://stats.pphat.top/badge/followers?username=blackrexdl&hideIcon=true&theme=neon)
+![GitHub repos](https://stats.pphat.top/badge/repositories?username=blackrexdl&hideFrame=true)
+![GitHub commints](https://stats.pphat.top/badge/total-commits?username=blackrexdl&hideFrame=true&hideIcon=true)
+![GitHub Joined](http://stats.pphat.top/badge/total-joined-years?username=blackrexdl&theme=default)
 
 
 </div>
