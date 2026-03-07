@@ -277,6 +277,17 @@ _• I’m naturally funny and like to lighten up the mood.
 **Thank you for visiting my profile! 😊**
 **This Ghost Doing Hard !! Star my repo and enjoy 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=blackrexdl&color=brightgreen&style=flat-square&label=Profile+Views)
+
+
+
+
+
+
+![GitHub Stats](https://stats.pphat.top/badge/visitors?username=blackrexdl)
+![GitHub Stats](https://stats.pphat.top/badge/total-stars?username=blackrexdl&theme=ocean)
+![GitHub Stats](https://stats.pphat.top/badge/followers?username=blackrexdl&hideIcon=true&theme=neon)
+![GitHub Stats](https://stats.pphat.top/badge/repositories?username=blackrexdl&hideFrame=true)
+![GitHub Stats](https://stats.pphat.top/badge/total-commits?username=blackrexdl&hideFrame=true&hideIcon=true)
+![GitHub Stats]()
 
 </div>
