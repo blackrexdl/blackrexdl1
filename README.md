@@ -271,39 +271,16 @@ _• I’m naturally funny and like to lighten up the mood.
 
 ## 🔥 Trending Showcase
 
-<table align="center">
-<tr>
+## 📦 My Projects
 
-<td align="center">
-<a href="https://github.com/vercel/next.js">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/microsoft/vscode">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<a href="https://github.com/facebook/react">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/torvalds/linux">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/blackrexdl?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=flashcard_app" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=Placement-Comapny.github.io" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=personal-portfolio" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl1" />
+</p>
 
 ---
 
