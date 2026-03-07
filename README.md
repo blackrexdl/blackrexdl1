@@ -271,15 +271,39 @@ _• I’m naturally funny and like to lighten up the mood.
 
 ## 🔥 Trending Showcase
 
-<div align="center">
+<table align="center">
+<tr>
 
-[![Next.js](https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&theme=tokyonight)](https://github.com/vercel/next.js)
-[![VS Code](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&theme=tokyonight)](https://github.com/microsoft/vscode)
+<td align="center">
+<a href="https://github.com/vercel/next.js">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&theme=tokyonight&hide_border=true" />
+</a>
+</td>
 
-[![React](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&theme=tokyonight)](https://github.com/facebook/react)
-[![Linux](https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=tokyonight)](https://github.com/torvalds/linux)
+<td align="center">
+<a href="https://github.com/microsoft/vscode">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&theme=tokyonight&hide_border=true" />
+</a>
+</td>
 
-</div>
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/facebook/react">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&theme=tokyonight&hide_border=true" />
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/torvalds/linux">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=tokyonight&hide_border=true" />
+</a>
+</td>
+
+</tr>
+</table>
 
 ---
 
