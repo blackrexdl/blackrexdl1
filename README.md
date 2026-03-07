@@ -24,49 +24,71 @@
 
 </div>
 
-## 🚀 About Me
 
-I turn late-night ideas into → real working appsiOS Developer | Swift | @ CGC Landran | Full Stack Developer | Python Developer | Mern Stack | C++ | DSA | Student-built🔧 apps helping startups ship faster
-I’ve built and shipped 29+ software projects, with 12 deployed live — focusing on real execution over theoretical learning.
+## 🚀 Profile Overview
 
-My core focus is iOS development using Swift, backed by strong full-stack experience across the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building products end-to-end — from backend architecture to clean, responsive interfaces.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Instead of waiting for experience, I’ve been creating it — building live systems, experimenting across stacks, and sharing my work publicly through GitHub and deployed projects.
+### 👨‍💻 About Me
+I turn late-night ideas into real working apps.
 
-Currently focused on growing as an iOS Developer, I’m looking for opportunities where I can contribute to real products, solve meaningful problems, and keep compounding my skills through hands-on development.
-This will be displayed prominently at the top of your profile.
+• iOS Developer (Swift)  
+• Full Stack Developer (MERN)  
+• Python Developer  
+• C++ & DSA learner  
 
-<div align="center">
+I’ve built and shipped **29+ software projects**, with **12 deployed live**, focusing on practical execution and real product building.
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/blackrexdl?cardType=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+My core focus is **iOS development using Swift**, backed by strong full‑stack experience across **MongoDB, Express.js, React.js, and Node.js**.
 
-</div>
+I enjoy building products **end‑to‑end — from backend architecture to clean responsive UI.**
 
+</td>
 
-## 💼 Current Work
+<td width="50%" valign="top">
 
-<div align="left">
+### 💼 Current Work
+• 🔭 Currently building **FocusTrail**  
+• 👯 Open to collaborate on **Hospital Management System**  
+• 🤝 Looking for contributors for **FocusTrail**
 
-- 🔭 I'm currently working on <b>FocusTrail<b>
-- 👯 I'm looking to collaborate on [**Hospital-Management-System**](https://github.com/blackrexdl/Healthcare)
-- 🤝 I'm looking for help with **FocusTrail**
+### 📚 Learning
+• Advanced **Swift & iOS Development**  
+• **Next.js / React.js** interactive web apps  
+• **MERN Stack backend integration**  
+• **C++ & Data Structures & Algorithms**  
+• **UI/UX animations & responsive design**  
+• **Git & GitHub collaboration workflows**  
+• **Cybersecurity fundamentals**
 
-</div>
+</td>
+</tr>
 
-## 📚 Learning & Knowledge
+<tr>
+<td width="50%" valign="top">
 
-<div align="left">
+### 📞 Contact
+📧 Email: **shivam205@gmail.com**  
+💻 GitHub: https://github.com/blackrexdl  
+📄 Resume:  
+https://github.com/blackrexdl/SHUBU-DOCS/blob/main/Cer%5Ctificate/ATS.pdf
 
-- 🌱 I'm currently learning **🌱 I'm currently learning
-  • Advanced Swift & iOS development
-  • Next.js / React.js (interactive web apps)
-  • MERN Stack (MongoDB, Node.js, Express, backend integration)
-  • C++ & DSA (data structures and algorithms, problem-solving)
-  • UI/UX & Animations (glassmorphism, CSS animations, responsive design)
-  • Version control & collaboration (Git, GitHub workflows)
-  • Cybersecurity basics (ethical hacking, digital forensics)**
+</td>
 
-</div>
+<td width="50%" valign="top">
+
+### ⚡ Fun Facts
+• I enjoy building apps and experimenting with UI animations  
+• Coffee + music = productive coding sessions  
+• Love solving tricky coding problems  
+• I like creating small side projects just for learning  
+• Comfortable in **English, Hindi, and Punjabi**
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Projects
 
