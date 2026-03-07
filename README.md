@@ -288,6 +288,6 @@ _• I’m naturally funny and like to lighten up the mood.
 ![GitHub Stats](https://stats.pphat.top/badge/followers?username=blackrexdl&hideIcon=true&theme=neon)
 ![GitHub Stats](https://stats.pphat.top/badge/repositories?username=blackrexdl&hideFrame=true)
 ![GitHub Stats](https://stats.pphat.top/badge/total-commits?username=blackrexdl&hideFrame=true&hideIcon=true)
-![GitHub Stats]()
+
 
 </div>
