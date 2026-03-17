@@ -1,0 +1,56 @@
+name: Update Top Repos
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Fetch top repos
+        run: |
+          curl -s https://api.github.com/users/blackrexdl/repos \
+          | jq 'sort_by(-.stargazers_count) | .[0:4]' > repos.json
+
+      - name: Generate section
+        run: |
+          echo "<table><tr>" > section.md
+
+          i=0
+          for repo in $(jq -r '.[].name' repos.json); do
+            echo "<td align=\"center\">" >> section.md
+            echo "<a href=\"https://github.com/blackrexdl/$repo\">" >> section.md
+            echo "<img src=\"https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=$repo&theme=tokyonight&hide_border=true\"/>" >> section.md
+            echo "</a></td>" >> section.md
+
+            i=$((i+1))
+            if [ $((i%2)) -eq 0 ]; then echo "</tr><tr>" >> section.md; fi
+          done
+
+          echo "</tr></table>" >> section.md
+
+      - name: Inject into README
+        run: |
+          awk '
+          /<!--START_SECTION:top_repos-->/ {print; system("cat section.md"); skip=1; next}
+          /<!--END_SECTION:top_repos-->/ {skip=0}
+          !skip
+          ' README.md > README.tmp
+
+          mv README.tmp README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update top repos" || echo "No changes"
+          git push

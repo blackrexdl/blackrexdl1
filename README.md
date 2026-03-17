@@ -269,57 +269,10 @@ _• I’m naturally funny and like to lighten up the mood.
 
 </div>
 
-## 🔥 My Popular Repositories
+## 🔥 My Top Repositories
+<!--START_SECTION:top_repos-->
+<!--END_SECTION:top_repos-->
 
-<div align="center">
-
-<a href="https://github.com/blackrexdl?tab=repositories">
-<img src="https://img.shields.io/badge/My%20Repositories-Explore%20My%20Work-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-<table>
-<tr>
-
-<td align="center">
-
-<a href="https://github.com/blackrexdl/repo-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=repo-1&theme=tokyonight&hide_border=true"/>
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/blackrexdl/repo-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=repo-2&theme=tokyonight&hide_border=true"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<a href="https://github.com/blackrexdl/repo-3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=repo-3&theme=tokyonight&hide_border=true"/>
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/blackrexdl/repo-4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=repo-4&theme=tokyonight&hide_border=true"/>
-</a>
-
-</td>
-
-</tr>
-</table>
 
 <p align="center">
 Popular open‑source repositories often appearing on GitHub Trending.
