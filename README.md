@@ -192,44 +192,6 @@ _• I’m naturally funny and like to lighten up the mood.
 
 </div>
 
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
-<br><br>
-</div>
-<p align="center">
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-050505?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-dark-mode-only">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-FFFFFF?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-light-mode-only">
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-dark-mode-only">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript#gh-dark-mode-only">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript#gh-light-mode-only">
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript#gh-dark-mode-only">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only">
-    </a>
-    &emsp;
-</p>
-
-</br>
-
 
 ## 🌐 Connect with Me
 
@@ -369,6 +331,46 @@ Popular open‑source repositories often appearing on GitHub Trending.
 ---
 
 <div align="center">
+
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
+<br><br>
+</div>
+<p align="center">
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-050505?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-FFFFFF?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only">
+    </a>
+    &emsp;
+</p>
+
+</br>
+
 
 ### 🎯 Developer Quote
 
