@@ -183,6 +183,7 @@ Overall, this internship strengthened my technical skills, understanding of back
     <a href="#gh-light-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackrexdl&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
     </a>
+    <div align="center">
  <!-- LeetCode Stats -->
     <a href="https://leetcode.com/cheehwatang#gh-dark-mode-only">
         <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
@@ -190,6 +191,8 @@ Overall, this internship strengthened my technical skills, understanding of back
     <a href="https://leetcode.com/cheehwatang#gh-light-mode-only">
         <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
     </a>
+</div>
+
 ## ⚡ Fun Fact
 
 <div align="center">
