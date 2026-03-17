@@ -444,6 +444,31 @@ _• I’m naturally funny and like to lighten up the mood.
 
 <div align="center">
 
+<a href="https://github.com/blackrexdl/next-restaurant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=tokyonight" />
+</a>
+<a href="https://github.com/blackrexdl/Personal-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/blackrexdl/flashcard_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=flashcard_app&theme=tokyonight" />
+</a>
+<a href="https://github.com/blackrexdl/Placement-Porj">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=Placement-Porj&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/blackrexdl/Healthcare">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=Healthcare&theme=tokyonight" />
+</a>
+<a href="https://github.com/blackrexdl/blackrexdl">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=tokyonight" />
+</a>
+
+</div>
+
+<div align="center">
+
 <table>
   <!-- Row 1 -->
   <tr>
