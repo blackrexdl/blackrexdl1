@@ -427,41 +427,41 @@ _• I’m naturally funny and like to lighten up the mood.
 <table>
   <tr>
     <!-- Next Restaurant -->
-    <td align="center" width="280">
+    <td align="center" width="360" style="padding:10px;">
       <a href="https://github.com/blackrexdl/next-restaurant#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=github_dark#gh-dark-mode-only" width="250" alt="Next Restaurant Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=github_dark#gh-dark-mode-only" width="340" alt="Next Restaurant Repo">
       </a>
       <a href="https://github.com/blackrexdl/next-restaurant#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=vue#gh-light-mode-only" width="250" alt="Next Restaurant Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=vue#gh-light-mode-only" width="340" alt="Next Restaurant Repo">
       </a>
     </td>
     <!-- Personal Portfolio -->
-    <td align="center" width="280">
+    <td align="center" width="360" style="padding:10px;">
       <a href="https://github.com/blackrexdl/Personal-Portfolio#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=github_dark#gh-dark-mode-only" width="250" alt="Personal Portfolio Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=github_dark#gh-dark-mode-only" width="340" alt="Personal Portfolio Repo">
       </a>
       <a href="https://github.com/blackrexdl/Personal-Portfolio#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=vue#gh-light-mode-only" width="250" alt="Personal Portfolio Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=vue#gh-light-mode-only" width="340" alt="Personal Portfolio Repo">
       </a>
     </td>
   </tr>
   <tr>
     <!-- BlackRexDL -->
-    <td align="center" width="280">
+    <td align="center" width="360" style="padding:10px;">
       <a href="https://github.com/blackrexdl/blackrexdl#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=github_dark#gh-dark-mode-only" width="250" alt="BlackRexDL Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=github_dark#gh-dark-mode-only" width="340" alt="BlackRexDL Repo">
       </a>
       <a href="https://github.com/blackrexdl/blackrexdl#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=vue#gh-light-mode-only" width="250" alt="BlackRexDL Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=vue#gh-light-mode-only" width="340" alt="BlackRexDL Repo">
       </a>
     </td>
     <!-- BIIIIIIRLL -->
-    <td align="center" width="280">
+    <td align="center" width="360" style="padding:10px;">
       <a href="https://github.com/blackrexdl/BIIIIIIRLL#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=github_dark#gh-dark-mode-only" width="250" alt="BIIIIIIRLL Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=github_dark#gh-dark-mode-only" width="340" alt="BIIIIIIRLL Repo">
       </a>
       <a href="https://github.com/blackrexdl/BIIIIIIRLL#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=vue#gh-light-mode-only" width="250" alt="BIIIIIIRLL Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=vue#gh-light-mode-only" width="340" alt="BIIIIIIRLL Repo">
       </a>
     </td>
   </tr>
