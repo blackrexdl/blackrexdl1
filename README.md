@@ -25,13 +25,8 @@
 </div>
 
 
-![Next Restaurant Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/next-restaurant&variant=map&theme=dark)
-![Personal Portfolio Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/Personal-Portfolio&variant=map&theme=dark)
-![BlackRexDL Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/blackrexdl&variant=map&theme=dark)
+
 ![BIIIIIIRLL Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/BIIIIIIRLL&variant=map&theme=dark)
-![Flashcard App Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/flashcard_app&variant=map&theme=dark)
-![Placement Porj Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/Placement-Porj&variant=map&theme=dark)
-![Healthcare Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/Healthcare&variant=map&theme=dark)
 
 ## 🚀 Profile Overview
 
