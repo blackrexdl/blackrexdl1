@@ -26,7 +26,7 @@
 
 
 
-![BIIIIIIRLL Heatmap](https://github-contribution-heatmap.vercel.app/api/heatmap?repo=blackrexdl/BIIIIIIRLL&variant=map&theme=dark)
+![Contributions](https://github-contribution-heatmap.vercel.app/api/heatmap?username=blackrexdl&theme=dark)
 
 ## 🚀 Profile Overview
 
