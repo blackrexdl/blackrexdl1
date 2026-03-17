@@ -196,10 +196,12 @@ _• I’m naturally funny and like to lighten up the mood.
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
 <br><br>
 </div>
+
 ![Ruby](https://img.shields.io/badge/Ruby-050505?style=for-the-badge&logo=ruby&logoColor=CC342D)  
 ![Java](https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript)  
+
 ## 🌐 Connect with Me
 
 <div align="center">
