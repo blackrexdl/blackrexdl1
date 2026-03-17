@@ -427,30 +427,31 @@ _• I’m naturally funny and like to lighten up the mood.
 <table>
   <tr>
     <!-- Next Restaurant -->
-    <td align="center" width="250" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
-      <a href="https://github.com/blackrexdl/next-restaurant">
-        <strong>Next Restaurant</strong>
-      </a>
+    <td align="center" width="280" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+      <a href="https://github.com/blackrexdl/next-restaurant"><strong>Next Restaurant</strong></a>
+      <p>Full-stack restaurant web app</p>
+      <img src="https://img.shields.io/badge/Language-JavaScript-yellow" alt="JS Badge">
     </td>
     <!-- Personal Portfolio -->
-    <td align="center" width="250" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
-      <a href="https://github.com/blackrexdl/Personal-Portfolio">
-        <strong>Personal Portfolio</strong>
-      </a>
+    <td align="center" width="280" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+      <a href="https://github.com/blackrexdl/Personal-Portfolio"><strong>Personal Portfolio</strong></a>
+      <p>Personal portfolio website</p>
+      <img src="https://img.shields.io/badge/Language-HTML-orange" alt="HTML Badge">
     </td>
   </tr>
+
   <tr>
     <!-- BlackRexDL -->
-    <td align="center" width="250" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
-      <a href="https://github.com/blackrexdl/blackrexdl">
-        <strong>BlackRexDL</strong>
-      </a>
+    <td align="center" width="280" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+      <a href="https://github.com/blackrexdl/blackrexdl"><strong>BlackRexDL</strong></a>
+      <p>Profile showcase & GitHub README</p>
+      <img src="https://img.shields.io/badge/Language-Markdown-blue" alt="Markdown Badge">
     </td>
     <!-- BIIIIIIRLL -->
-    <td align="center" width="250" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
-      <a href="https://github.com/blackrexdl/BIIIIIIRLL">
-        <strong>BIIIIIIRLL</strong>
-      </a>
+    <td align="center" width="280" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+      <a href="https://github.com/blackrexdl/BIIIIIIRLL"><strong>BIIIIIIRLL</strong></a>
+      <p>Fun / experimental project</p>
+      <img src="https://img.shields.io/badge/Language-JavaScript-yellow" alt="JS Badge">
     </td>
   </tr>
 </table>
