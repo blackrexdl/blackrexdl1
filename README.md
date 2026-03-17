@@ -423,34 +423,45 @@ _• I’m naturally funny and like to lighten up the mood.
 ## 🔖 Featured Repositories
 
 <div align="center">
+
+<table>
+  <tr>
     <!-- Next Restaurant Repo -->
-    <a href="https://github.com/blackrexdl/next-restaurant#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=github_dark#gh-dark-mode-only" alt="Next Restaurant Repo">
-    </a>
-    <a href="https://github.com/blackrexdl/next-restaurant#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=vue#gh-light-mode-only" alt="Next Restaurant Repo">
-    </a>
+    <td align="center" width="220">
+      <a href="https://github.com/blackrexdl/next-restaurant">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=next-restaurant&theme=github_dark" width="200" alt="Next Restaurant Repo">
+      </a>
+      <br>Next Restaurant
+    </td>
+
     <!-- Personal Portfolio Repo -->
-    <a href="https://github.com/blackrexdl/Personal-Portfolio#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=github_dark#gh-dark-mode-only" alt="Personal Portfolio Repo">
-    </a>
-    <a href="https://github.com/blackrexdl/Personal-Portfolio#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=vue#gh-light-mode-only" alt="Personal Portfolio Repo">
-    </a>
-    <!-- BlackRexDL Internal Repo -->
-    <a href="https://github.com/blackrexdl/blackrexdl#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=github_dark#gh-dark-mode-only" alt="BlackRexDL Repo">
-    </a>
-    <a href="https://github.com/blackrexdl/blackrexdl#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=vue#gh-light-mode-only" alt="BlackRexDL Repo">
-    </a>
-    <!-- BIIIIIIRLL Repo (Brillllll Repo) -->
-    <a href="https://github.com/blackrexdl/BIIIIIIRLL#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=github_dark#gh-dark-mode-only" alt="BIIIIIIRLL Repo">
-    </a>
-    <a href="https://github.com/blackrexdl/BIIIIIIRLL#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=vue#gh-light-mode-only" alt="BIIIIIIRLL Repo">
-    </a>
+    <td align="center" width="220">
+      <a href="https://github.com/blackrexdl/Personal-Portfolio">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=Personal-Portfolio&theme=github_dark" width="200" alt="Personal Portfolio Repo">
+      </a>
+      <br>Personal Portfolio
+    </td>
+  </tr>
+
+  <tr>
+    <!-- BlackRexDL Repo -->
+    <td align="center" width="220">
+      <a href="https://github.com/blackrexdl/blackrexdl">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=blackrexdl&theme=github_dark" width="200" alt="BlackRexDL Repo">
+      </a>
+      <br>BlackRexDL
+    </td>
+
+    <!-- BIIIIIIRLL Repo -->
+    <td align="center" width="220">
+      <a href="https://github.com/blackrexdl/BIIIIIIRLL">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=blackrexdl&repo=BIIIIIIRLL&theme=github_dark" width="200" alt="BIIIIIIRLL Repo">
+      </a>
+      <br>BIIIIIIRLL
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ## 🌐 Connect with Me
