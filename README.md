@@ -432,7 +432,6 @@ _• I’m naturally funny and like to lighten up the mood.
         <strong>Next Restaurant</strong>
       </a>
     </td>
-
     <!-- Personal Portfolio -->
     <td align="center" width="250" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
       <a href="https://github.com/blackrexdl/Personal-Portfolio">
@@ -440,7 +439,6 @@ _• I’m naturally funny and like to lighten up the mood.
       </a>
     </td>
   </tr>
-
   <tr>
     <!-- BlackRexDL -->
     <td align="center" width="250" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
@@ -448,7 +446,6 @@ _• I’m naturally funny and like to lighten up the mood.
         <strong>BlackRexDL</strong>
       </a>
     </td>
-
     <!-- BIIIIIIRLL -->
     <td align="center" width="250" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
       <a href="https://github.com/blackrexdl/BIIIIIIRLL">
