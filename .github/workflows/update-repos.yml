@@ -10,16 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      # ✅ Updated version (fixes Node.js warning)
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
+      # Install jq
       - name: Install jq
-        run: sudo apt-get install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
 
+      # Fetch repos
       - name: Fetch top repos
         run: |
           curl -s https://api.github.com/users/blackrexdl/repos \
           | jq 'sort_by(-.stargazers_count) | .[0:4]' > repos.json
 
+      # Generate section
       - name: Generate section
         run: |
           echo "<table><tr>" > section.md
@@ -37,6 +42,7 @@ jobs:
 
           echo "</tr></table>" >> section.md
 
+      # Inject into README safely
       - name: Inject into README
         run: |
           awk '
@@ -47,10 +53,17 @@ jobs:
 
           mv README.tmp README.md
 
-      - name: Commit changes
+      # ✅ Fix commit/push issue (exit code 128)
+      - name: Commit & Push if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+
           git add README.md
-          git commit -m "Update top repos" || echo "No changes"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔄 Update top repositories"
+            git push
+          fi
