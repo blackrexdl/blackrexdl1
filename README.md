@@ -269,10 +269,6 @@ _• I’m naturally funny and like to lighten up the mood.
 
 </div>
 
-## 🔥 My Top Repositories
-<!--START_SECTION:top_repos-->
-<!--END_SECTION:top_repos-->
-
 
 <p align="center">
 Popular open‑source repositories often appearing on GitHub Trending.
