@@ -36,15 +36,7 @@
 
 </div>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/blackrexdl/BIIIIIIRLL/output/github-contribution-grid-snake.svg" />
-
-</div>
-
-</div>
 
 
 
