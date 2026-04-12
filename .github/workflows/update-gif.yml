@@ -38,4 +38,4 @@ jobs:
 
           git commit -m "chore: update readme gif" || echo "No changes to commit"
 
-          git push
+          git push origin main
