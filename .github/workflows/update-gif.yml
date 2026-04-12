@@ -1,4 +1,4 @@
-name: Generate Profile GIF
+name: Generate  GIF
 
 on:
   schedule:
