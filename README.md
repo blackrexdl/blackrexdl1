@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/blackrexdl/blackrexdl/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/blackrexdl/BIIIIIIRLL/output/github-contribution-grid-snake.svg" />
 
 </div>
 
